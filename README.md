@@ -1,7 +1,5 @@
 # Heart Disease Dataset - Exploratory Data Analysis (EDA)
 
-# EDA-Data_Cleaning
-
 * Data loading & inspection (`pandas`, `info`, `describe`)
 * Data cleaning (handling `0` values in Cholesterol & RestingBP)
 * Exploratory Data Analysis (histograms, countplots, boxplots, violin plots, correlation heatmap)
